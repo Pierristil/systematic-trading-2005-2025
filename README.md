@@ -15,7 +15,6 @@ Max Drawdown	        -57.20%	      -72.80%
 Win Rate            	74.60%	      63.60%
 
 
-
 **Key Insight:** Gross Sharpe was +0.38, but transaction costs (13 bps long / 20 bps short) turned it negative. Weak signals cannot survive strong costs.
 
 ## Strategy Logic
@@ -41,8 +40,6 @@ Three filters applied before any trade:
 - CRSP equity data
 - FRED macroeconomic data
 - CBOE VIX index
-
- **Period:** 2005–2025 (5,283 trading days)
 
 **Coverage**
 - 20 US large-cap stocks
