@@ -1,11 +1,11 @@
 # Systematic Trading Strategy (2005–2025)
 
+
 ## Overview
 This project develops a rule-based trading strategy for 20 US large-cap stocks using financial time series analysis, technical indicators, macroeconomic variables, and backtesting techniques in R.
 
 The objective is to evaluate how systematic trading signals and risk management filters perform across different market conditions from 2005 to 2025.
 
----
 
 ## Objectives
 - Build a systematic trading framework
@@ -14,7 +14,6 @@ The objective is to evaluate how systematic trading signals and risk management 
 - Evaluate portfolio performance
 - Study volatility and market behavior
 
----
 
 ## Dataset
 The project uses:
@@ -26,8 +25,6 @@ The project uses:
 ### Sample Period
 2005–2025
 
----
-
 ## Features and Indicators
 - Momentum
 - Moving averages
@@ -36,7 +33,6 @@ The project uses:
 - VIX filters
 - Yield spread analysis
 
----
 
 ## Methodology
 - Data cleaning and preprocessing
@@ -46,7 +42,6 @@ The project uses:
 - Backtesting with transaction costs
 - Performance evaluation
 
----
 
 ## Tools and Technologies
 - R
@@ -54,7 +49,6 @@ The project uses:
 - Financial time series analysis
 - Quantitative finance methods
 
----
 
 ## Author
 **Fritzner Pierristil**  
